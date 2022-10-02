@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Vitaliy @mrLevin778 Kovbasyuk
+- 👋 Hi, I’m Vitaliy Kovbasyuk
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
