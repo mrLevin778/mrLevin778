@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Vitaliy Kovbasyuk
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
